@@ -1,4 +1,4 @@
-# Jiashu Wu's Publications
+# Jiashu Wu's Publications 🎓
 
 <table>
 <thead>
