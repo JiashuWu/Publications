@@ -1,5 +1,7 @@
 # Jiashu Wu's Publications 🎓
 
+https://jiashuwu.github.io/Publications/
+
 <table>
 <thead>
   <tr>
