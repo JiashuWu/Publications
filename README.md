@@ -1,2 +1,5 @@
-# Papers
-Jiashu Wu's Publications
+# Jiashu Wu's Publications
+
+Year | Title | Venue | Classification | PDF | Link
+:-: | :-: | :-: | :-: | :-: | -
+
