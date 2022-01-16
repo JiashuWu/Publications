@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>2021</td>
-    <td>A self-contained and self-explanatory DNA storage system | Nature Scientific Reports</td>
+    <td>A self-contained and self-explanatory DNA storage system</td>
     <td>Nature Scientific Reports</td>
     <td>SCI Q1</td>
     <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/A self-contained and self-explanatory DNA storage system.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
