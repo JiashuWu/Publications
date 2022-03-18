@@ -1,6 +1,6 @@
 # Jiashu Wu's Publications 🎓
 
-
+## Accepted Papers
 
 <table>
 <thead>
@@ -45,6 +45,30 @@
     <td>CCF-C<br>SCI Q3</td>
     <td> - </td>
     <td> - </td>
+  </tr>
+</tbody>
+</table>
+
+## Granted Patents
+
+<table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Title</th>
+    <th>Patent Number</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2021</td>
+    <td>一种数据流连接优化方法、系统、终端以及存储介质</td>
+    <td>CN202011435327.3</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>在线场景的资源分配方法、装置及电子设备</td>
+    <td>CN202011428352.9</td>
   </tr>
 </tbody>
 </table>
