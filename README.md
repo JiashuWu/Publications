@@ -43,8 +43,8 @@
     <td>Towards Fast Theta-join: A Pre-filtering and Amalgamated Partitioning Approach</td>
     <td>Concurrency and Computation: Practice and Experience</td>
     <td>CCF-C<br>SCI Q3</td>
-    <td> - </td>
-    <td> - </td>
+    <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/Toward fast theta‐join A prefiltering and amalgamated partitioning approach.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
+    <td><a href="https://doi.org/10.1002/cpe.6996" target="_blank">Wiley</a></td>
   </tr>
 </tbody>
 </table>
