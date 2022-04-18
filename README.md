@@ -39,7 +39,7 @@
     <td><a href="https://www.nature.com/articles/s41598-021-97570-3" target="_blank">Nature</a></td>
   </tr>
   <tr>
-    <td>2021</td>
+    <td>2022</td>
     <td>Towards Fast Theta-join: A Pre-filtering and Amalgamated Partitioning Approach</td>
     <td>Concurrency and Computation: Practice and Experience</td>
     <td>CCF-C<br>SCI Q3</td>
