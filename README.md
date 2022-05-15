@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>2022</td>
-    <td>Towards Fast Theta-join: A Pre-filtering and Amalgamated Partitioning Approach</td>
+    <td>Towards Fast Theta-join: A Prefiltering and Amalgamated Partitioning Approach</td>
     <td>Concurrency and Computation: Practice and Experience</td>
     <td>CCF-C<br>SCI Q3</td>
     <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/Toward fast theta‐join A prefiltering and amalgamated partitioning approach.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
