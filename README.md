@@ -46,6 +46,14 @@
     <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/Toward fast theta‐join A prefiltering and amalgamated partitioning approach.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
     <td><a href="https://doi.org/10.1002/cpe.6996" target="_blank">Wiley</a></td>
   </tr>
+  <tr>
+    <td>2022</td>
+    <td>PECCO: A Profit and Cost-oriented Computation Offloading Scheme in Edge-Cloud Environment with Improved Moth-flame Optimisation</td>
+    <td>Concurrency and Computation: Practice and Experience</td>
+    <td>CCF-C<br>SCI Q3</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
 </tbody>
 </table>
 
