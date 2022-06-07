@@ -1,6 +1,6 @@
 # Jiashu Wu's Publications 🎓
 
-<img src="https://jiashuwu.github.io/JiashuWu/Resource/BIT.png" alt="" width="200" height="50">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/USYD.png" alt="" width="200" height="50">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/UniMelb.png" alt="" width="200" height="50">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/UCAS.png" alt="" width="200" height="50">
+<img src="https://jiashuwu.github.io/JiashuWu/Resource/BIT.png" alt="" width="200" height="45">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/USYD.png" alt="" width="137" height="50">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/UniMelb.png" alt="" width="188" height="50">&nbsp;&nbsp;&nbsp;<img src="https://jiashuwu.github.io/JiashuWu/Resource/UCAS.png" alt="" width="192" height="50">
 
 ## Accepted Papers
 
