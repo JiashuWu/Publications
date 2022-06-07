@@ -54,6 +54,14 @@
     <td> - </td>
     <td> - </td>
   </tr>
+  <tr>
+    <td>2022</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
 </tbody>
 </table>
 
