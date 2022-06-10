@@ -58,6 +58,14 @@
   </tr>
   <tr>
     <td>2022</td>
+    <td>Towards Scalable and Efficient Deep-RL in Edge Computing : A Game-based Partition Approach</td>
+    <td>Journal of Parallel and Distributed Computing (JPDC)</td>
+    <td>CCF-B<br>SCI Q1</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>2022</td>
     <td> - </td>
     <td> - </td>
     <td> - </td>
