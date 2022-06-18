@@ -29,7 +29,7 @@
     <td>MIX-RS: A Multi-indexing System based on HDFS for Remote Sensing Data Storage</td>
     <td>Tsinghua Science and Technology</td>
     <td>SCI Q2</td>
-    <td> - </td>
+    <td> (Online Soon) </td>
     <td> - </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
     <td>PECCO: A Profit and Cost-oriented Computation Offloading Scheme in Edge-Cloud Environment with Improved Moth-flame Optimisation</td>
     <td>Concurrency and Computation: Practice and Experience</td>
     <td>CCF-C<br>SCI Q3</td>
-    <td> - </td>
+    <td> (Online Soon) </td>
     <td> - </td>
   </tr>
   <tr>
