@@ -61,8 +61,8 @@
     <td>Towards Scalable and Efficient Deep-RL in Edge Computing : A Game-based Partition Approach</td>
     <td>Journal of Parallel and Distributed Computing (JPDC)</td>
     <td>CCF-B<br>SCI Q1</td>
-    <td> - </td>
-    <td> - </td>
+    <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/Towards Scalable and Efficient Deep-RL in Edge Computing A Game-based Partition Approach.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
+    <td><a href="https://doi.org/10.1016/j.jpdc.2022.06.006" target="_blank">JPDC via ScienceDirect</a></td>
   </tr>
   <tr>
     <td>2022</td>
