@@ -20,7 +20,7 @@
     <td>2020</td>
     <td>Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation</td>
     <td>ACMMM20 Proceedings of the 28th ACM International Conference on Multimedia</td>
-    <td>CCF-A</td>
+    <td>CCF-A<br>EI</td>
     <td><a href="https://jiashuwu.github.io/JiashuWu/Publications/Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation.pdf" target="_blank" rel="noopener noreferrer"><img src="https://jiashuwu.github.io/JiashuWu/Resource/pdf.png" alt="" width="16" height="20">PDF</a></td>
     <td><a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413995" target="_blank">ACM</a><br><a href="https://arxiv.org/abs/2008.01677" target="_blank">arxiv</a></td>
   </tr>
